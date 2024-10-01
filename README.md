@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://facebook.com/in/Abdo Zaher" target="_blank"><img src="https://img.shields.io/badge/-Abdo%20Zaher-0077B5?style=for-the-badge&logo=Faceboook&logoColor=white"/></a>
+<a href="https://Facebook.com/in/Abdo Zaher" target="_blank"><img src="https://img.shields.io/badge/-Abdo%20Zaher-0077B5?style=for-the-badge&logo=Faceboook&logoColor=white"/></a>
 <a href="https://t.me/Zaher495" target="_blank"><img src="https://img.shields.io/badge/-Abdo%20Zaher-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
